@@ -23,7 +23,9 @@
 
 <img width="1199" height="280" alt="imagen" src="https://github.com/user-attachments/assets/8059e319-d1f7-4094-a8be-8654fa9efe17" />
 
-**Paso 2:**
+**Paso 2:** Conectar el cliente al servidor. El primero se conecta con el servidor, por lo tanto, se ingresará automáticamente como jugador 1.
+
+<img width="726" height="68" alt="Captura desde 2026-10-23 16-44-42" src="https://github.com/user-attachments/assets/68f23ae6-df42-417d-8854-a59ee6d03ea7" />
 
 **Paso 3:**
 
