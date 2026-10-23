@@ -1,4 +1,3 @@
-
 import traceback
 from main import NeonPong
 
@@ -13,19 +12,15 @@ def main():
     print(f"IP predeterminada: {SERVER_IP_DEFAULT}")
 
     ip = input("IP del servidor (ENTER para usar la predeterminada): ").strip()
-    server_ip = ip or SERVER_IP_DEFAULT
 
     try:
         print("\nCargando juego...")
-        NeonPong(server_ip).run()
-
+        NeonPong(ip or SERVER_IP_DEFAULT).run()
     except KeyboardInterrupt:
         print("\nCliente cerrado.")
-
     except Exception as error:
         print(f"\nError al iniciar el juego: {error}")
         traceback.print_exc()
-
     finally:
         try:
             input("\nPulsa ENTER para cerrar esta ventana...")
