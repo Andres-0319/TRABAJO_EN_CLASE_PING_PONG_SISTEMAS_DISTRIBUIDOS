@@ -37,5 +37,5 @@
 
 **Conclusiones**
 
-- **CONCLUSIÓN 1**
-- **CONCLUSIÓN 2**
+- El desarrollo del juego de Ping-Pong permitió comprender la importancia de la comunicación entre diferentes computadoras mediante el uso de redes y la programación en Python. A través de la implementación de una arquitectura cliente-servidor, fue posible establecer una conexión entre dos jugadores ubicados en máquinas diferentes.
+- La realización de este taller permitió identificar los elementos necesarios para implementar una aplicación multijugador que funcione en dos computadoras diferentes. Durante el proceso, se comprendió la importancia de configurar correctamente la dirección IP del servidor y establecer una conexión adecuada entre los clientes.
