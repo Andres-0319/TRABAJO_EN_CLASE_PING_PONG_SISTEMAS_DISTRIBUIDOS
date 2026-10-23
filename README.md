@@ -15,7 +15,7 @@
 **Tema:** Taller Grupal Ping-Pong
 
 **Objetivo**
-
+- Crear un juego de ping pong por medio del lenguaje de programación Python para ponerlo a funcionar desde distintas máquinas y así poder probar este juego como un tipo multijugador.
 
 **Desarrollo de la actividad**
 
