@@ -19,7 +19,9 @@
 
 **Desarrollo de la actividad**
 
-**Paso 1:**
+**Paso 1:** Se inicia el servidor correspondiente
+
+<img width="1199" height="280" alt="imagen" src="https://github.com/user-attachments/assets/8059e319-d1f7-4094-a8be-8654fa9efe17" />
 
 **Paso 2:**
 
